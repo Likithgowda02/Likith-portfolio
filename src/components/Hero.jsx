@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="min-h-screen flex items-center justify-center px-10 pt-16" >
+      className="min-h-screen flex items-center justify-center px-10 pt-24" >
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center w-full">
 
         <motion.div
@@ -48,7 +48,7 @@ export default function Hero() {
 
           <div className="mt-10 flex gap-4">
   <a
-    href="/resume.pdf"
+    href="/Likith G.pdf"
     download
     className="px-8 py-3 rounded-full border border-[#A3B18A] bg-[#A3B18A] text-[#080b08] font-medium tracking-wide hover:bg-transparent hover:text-[#A3B18A] transition-all duration-300"
   >
